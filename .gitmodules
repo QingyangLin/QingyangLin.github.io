@@ -1,4 +1,0 @@
-[submodule "source"]
-	path = source
-	url = https://github.com/QingyangLin/WebsiteSource.git
-	branch = main
